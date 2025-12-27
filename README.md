@@ -1,5 +1,8 @@
 # Excel Dashboard Project
 
+## 🎯 Objective
+To analyze the dataset and present insights through a structured and user-friendly Excel dashboard.
+
 ## 📌 Overview
 This project contains a complete Excel dashboard created within a single workbook.
 The workbook includes raw data, analysis, and an interactive dashboard.
@@ -18,9 +21,6 @@ The Excel file contains the following sheets:
 - Excel formulas
 - Data cleaning and formatting
 
-## 🎯 Objective
-To analyze the dataset and present insights through a structured and user-friendly Excel dashboard.
 
-## 📁 File
-- Excel_Dashboard_Project.xlsx
+
 
