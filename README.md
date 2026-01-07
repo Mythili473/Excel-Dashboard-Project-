@@ -22,6 +22,7 @@ The Excel file contains the following sheets:
 - Data cleaning and formatting
   
 Dashboard image
+
 <img width="1157" height="654" alt="Screenshot 2026-01-07 115327" src="https://github.com/user-attachments/assets/382f66be-1af8-4d71-bfb9-39a00635b6b8" />
 
 
